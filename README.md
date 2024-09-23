@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shivam0920
+- 👋 Hi, I’m Shivam Rawat
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me shivamrawat1905@gmail.com
+- 😄 Pronouns: Shivam
+- ⚡ Fun fact: We both are engineer
 
 <!---
 shivam0920/shivam0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
